@@ -1,0 +1,125 @@
+1,"Acceleration X: -9.30, Y: -5.10, Z: -2.70 m/s²"
+2,"Rotation X: 6.58, Y: -0.70, Z: 2.72 rad/s"
+3,Temperature: 4.40 °C
+4,"Acceleration X: -2.20, Y: 2.30, Z: 0.90 m/s²"
+5,"Rotation X: -5.60, Y: -8.35, Z: -5.08 rad/s"
+6,Temperature: 4.20 °C
+7,"Acceleration X: 8.70, Y: 0.30, Z: 2.70 m/s²"
+8,"Rotation X: 7.29, Y: -1.60, Z: -3.88 rad/s"
+9,Temperature: 30.30 °C
+10,"Acceleration X: 6.90, Y: 0.90, Z: 5.70 m/s²"
+11,"Rotation X: 5.60, Y: -0.67, Z: 0.99 rad/s"
+12,Temperature: 27.80 °C
+13,"Acceleration X: -8.40, Y: 3.50, Z: -0.30 m/s²"
+14,"Rotation X: 8.26, Y: 5.12, Z: 2.67 rad/s"
+15,Temperature: 31.00 °C
+16,"Acceleration X: -6.70, Y: 7.90, Z: 4.90 m/s²"
+17,"Rotation X: -4.21, Y: -1.79, Z: 9.67 rad/s"
+18,Temperature: 17.20 °C
+19,"Acceleration X: 9.30, Y: 3.60, Z: -1.50 m/s²"
+20,"Rotation X: 7.45, Y: 2.28, Z: -9.09 rad/s"
+21,Temperature: 19.40 °C
+22,"Acceleration X: 5.70, Y: -9.90, Z: 5.30 m/s²"
+23,"Rotation X: -2.92, Y: 9.44, Z: 6.68 rad/s"
+24,Temperature: 49.00 °C
+25,"Acceleration X: 2.40, Y: 9.60, Z: 3.00 m/s²"
+26,"Rotation X: -0.97, Y: 7.22, Z: -3.34 rad/s"
+27,Temperature: 4.90 °C
+28,"Acceleration X: -7.60, Y: -9.90, Z: -4.70 m/s²"
+29,"Rotation X: -0.23, Y: 4.08, Z: -7.72 rad/s"
+30,Temperature: 43.30 °C
+31,"Acceleration X: -0.20, Y: 8.10, Z: -6.50 m/s²"
+32,"Rotation X: -9.87, Y: 8.65, Z: 8.14 rad/s"
+33,Temperature: 6.30 °C
+34,"Acceleration X: 3.60, Y: -7.50, Z: -3.10 m/s²"
+35,"Rotation X: -8.85, Y: -9.06, Z: 6.29 rad/s"
+36,Temperature: 0.10 °C
+37,"Acceleration X: 1.70, Y: 9.50, Z: 0.50 m/s²"
+38,"Rotation X: -5.96, Y: 4.51, Z: -7.02 rad/s"
+39,Temperature: 18.80 °C
+40,"Acceleration X: 2.30, Y: 0.50, Z: -1.80 m/s²"
+41,"Rotation X: -2.48, Y: 5.66, Z: -2.84 rad/s"
+42,Temperature: 33.70 °C
+43,"Acceleration X: -6.20, Y: 4.40, Z: 0.10 m/s²"
+44,"Rotation X: -1.03, Y: 8.71, Z: 8.28 rad/s"
+45,Temperature: 13.70 °C
+46,"Acceleration X: 5.80, Y: 7.70, Z: 9.70 m/s²"
+47,"Rotation X: -7.06, Y: 9.04, Z: 6.09 rad/s"
+48,Temperature: 23.10 °C
+49,"Acceleration X: 4.50, Y: 7.50, Z: -6.50 m/s²"
+50,"Rotation X: -7.02, Y: -8.58, Z: -6.01 rad/s"
+51,Temperature: 46.80 °C
+52,"Acceleration X: -8.80, Y: -4.00, Z: 5.70 m/s²"
+53,"Rotation X: 5.94, Y: -9.92, Z: -6.05 rad/s"
+54,Temperature: 46.80 °C
+55,"Acceleration X: 1.30, Y: 3.00, Z: -9.40 m/s²"
+56,"Rotation X: -0.38, Y: 9.42, Z: 3.65 rad/s"
+57,Temperature: 8.20 °C
+58,"Acceleration X: -4.80, Y: 6.70, Z: -7.90 m/s²"
+59,"Rotation X: 6.95, Y: -2.88, Z: 6.71 rad/s"
+60,Temperature: 40.10 °C
+61,"Acceleration X: 9.00, Y: -6.90, Z: 3.80 m/s²"
+62,"Rotation X: 0.57, Y: 6.16, Z: 7.90 rad/s"
+63,Temperature: 14.00 °C
+64,"Acceleration X: -2.10, Y: 3.50, Z: -9.40 m/s²"
+65,"Rotation X: 9.72, Y: -9.02, Z: 0.95 rad/s"
+66,Temperature: 31.90 °C
+67,"Acceleration X: -4.60, Y: -7.70, Z: -1.10 m/s²"
+68,"Rotation X: -2.40, Y: -0.95, Z: -8.74 rad/s"
+69,Temperature: 12.30 °C
+70,"Acceleration X: 0.60, Y: -8.70, Z: 7.00 m/s²"
+71,"Rotation X: 2.38, Y: 0.94, Z: -7.80 rad/s"
+72,Temperature: 34.40 °C
+73,"Acceleration X: 6.60, Y: 3.40, Z: -7.40 m/s²"
+74,"Rotation X: 3.94, Y: 3.63, Z: -2.62 rad/s"
+75,Temperature: 34.40 °C
+76,"Acceleration X: 9.00, Y: 5.00, Z: 5.90 m/s²"
+77,"Rotation X: -3.77, Y: -0.53, Z: 3.85 rad/s"
+78,Temperature: 21.70 °C
+79,"Acceleration X: -2.80, Y: 3.90, Z: -5.30 m/s²"
+80,"Rotation X: -6.15, Y: 4.96, Z: -1.15 rad/s"
+81,Temperature: 12.30 °C
+82,"Acceleration X: -8.00, Y: 4.40, Z: 6.80 m/s²"
+83,"Rotation X: 7.35, Y: 9.15, Z: 6.25 rad/s"
+84,Temperature: 3.40 °C
+85,"Acceleration X: -5.80, Y: -8.90, Z: -2.10 m/s²"
+86,"Rotation X: -8.48, Y: 2.44, Z: 2.95 rad/s"
+87,Temperature: 31.80 °C
+88,"Acceleration X: 9.60, Y: -0.80, Z: -8.50 m/s²"
+89,"Rotation X: -0.09, Y: -9.67, Z: -3.31 rad/s"
+90,Temperature: 39.70 °C
+91,"Acceleration X: 5.30, Y: 4.70, Z: -7.50 m/s²"
+92,"Rotation X: 2.10, Y: 6.62, Z: -7.89 rad/s"
+93,Temperature: 30.80 °C
+94,"Acceleration X: 7.70, Y: 6.10, Z: -7.50 m/s²"
+95,"Rotation X: 3.35, Y: 8.68, Z: 9.95 rad/s"
+96,Temperature: 27.60 °C
+97,"Acceleration X: 6.70, Y: -6.10, Z: -2.60 m/s²"
+98,"Rotation X: 3.31, Y: -4.44, Z: -6.99 rad/s"
+99,Temperature: 37.20 °C
+100,"Acceleration X: 6.00, Y: -0.60, Z: 8.40 m/s²"
+101,"Rotation X: 7.55, Y: 7.89, Z: 4.07 rad/s"
+102,Temperature: 1.50 °C
+103,"Acceleration X: 9.30, Y: 6.90, Z: -2.00 m/s²"
+104,"Rotation X: 4.55, Y: -1.45, Z: 5.06 rad/s"
+105,Temperature: 46.30 °C
+106,"Acceleration X: 0.20, Y: -2.40, Z: 0.80 m/s²"
+107,"Rotation X: 2.49, Y: -6.69, Z: 8.44 rad/s"
+108,Temperature: 13.80 °C
+109,"Acceleration X: -9.20, Y: 9.70, Z: -4.90 m/s²"
+110,"Rotation X: -1.51, Y: 2.03, Z: 7.31 rad/s"
+111,Temperature: 3.10 °C
+112,"Acceleration X: -8.60, Y: -8.10, Z: 7.50 m/s²"
+113,"Rotation X: -9.91, Y: -8.20, Z: 9.29 rad/s"
+114,Temperature: 22.30 °C
+115,"Acceleration X: -4.60, Y: -4.00, Z: 3.70 m/s²"
+116,"Rotation X: 5.45, Y: 3.17, Z: 5.25 rad/s"
+117,Temperature: 20.00 °C
+118,"Acceleration X: -4.40, Y: 6.40, Z: 9.70 m/s²"
+119,"Rotation X: -3.52, Y: 7.04, Z: 5.50 rad/s"
+120,Temperature: 15.00 °C
+121,"Acceleration X: 7.60, Y: -8.80, Z: 5.40 m/s²"
+122,"Rotation X: -2.03, Y: -4.96, Z: -6.19 rad/s"
+123,Temperature: 24.80 °C
+124,"Acceleration X: -3.50, Y: 7.80, Z: -0.10 m/s²"
+125,"Rotation X: -7.91, Y: 1.29, Z:"
